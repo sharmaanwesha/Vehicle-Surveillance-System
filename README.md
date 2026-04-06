@@ -7,7 +7,13 @@ Smart campus parking and surveillance system using Java OOPS
 - Loyalty points and rewards  
 - Violation detection  
 - Fine management system  
+## Output Screenshots
 
+### Login & Dashboard
+![Login](login_page.png)
+
+### Parking & Fee Calculation
+![Parking](student_dashboard.png)
 # Concepts Used
 - Object-Oriented Programming (OOP)  
 - ArrayList, HashMap  
